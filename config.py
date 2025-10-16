@@ -1,3 +1,4 @@
 import os
 
-BOT_TOKEN = "8102838078:AAEa00_Q2KFgL00GbCLa6_bX65s0kOO4RlI"
+BOT_TOKEN = "ввести_токен_тут"
+
